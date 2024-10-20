@@ -44,7 +44,7 @@ You can access the live version of the system using the following link:
 ## Admin Portal
 The admin side of the application is accessible via the following URLs:
 
-- Localhost: [Admin Login]([http://localhost/consolatamedcollege/adminSide/StaffLogin/login.php)
+- Localhost: [Admin Login](http://localhost/consolatamedcollege/adminSide/StaffLogin/login.php)
 - Live: [Admin Login](https://consolatamedcollege.iamdarzee.com/adminSide/StaffLogin/login.php)
 
 ### Admin Credentials:

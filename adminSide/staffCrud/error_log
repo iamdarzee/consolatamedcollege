@@ -1,0 +1,161 @@
+[08-Apr-2024 15:06:09 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php on line 12
+[08-Apr-2024 15:06:09 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:06:09 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php:0
+[08-Apr-2024 15:06:09 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php:12
+Stack trace:
+#0 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php(12): mysqli_query()
+#1 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php on line 12
+[08-Apr-2024 15:07:43 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php on line 14
+[08-Apr-2024 15:07:43 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:07:43 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php:0
+[08-Apr-2024 15:07:43 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php:14
+Stack trace:
+#0 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/delete_staff.php on line 14
+[08-Apr-2024 15:08:46 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 50
+[08-Apr-2024 15:08:46 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:08:46 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:08:46 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:43
+Stack trace:
+#0 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php(43): mysqli_query()
+#1 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php(50): getNextAvailableStaffID()
+#2 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 43
+[08-Apr-2024 15:09:20 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 52
+[08-Apr-2024 15:09:20 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:09:20 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:09:20 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:45
+Stack trace:
+#0 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php(45): mysqli_query()
+#1 /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php(52): getNextAvailableStaffID()
+#2 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 45
+[08-Apr-2024 15:10:42 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 123
+[08-Apr-2024 15:10:42 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:10:42 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:10:42 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 131
+[08-Apr-2024 15:10:42 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:10:42 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:10:42 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 147
+[08-Apr-2024 15:10:42 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:10:42 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:14:37 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 123
+[08-Apr-2024 15:14:37 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:14:37 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:14:37 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 131
+[08-Apr-2024 15:14:37 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:14:37 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:14:37 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 147
+[08-Apr-2024 15:14:37 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:14:37 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:17:15 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 124
+[08-Apr-2024 15:17:15 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:17:15 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:17:15 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 132
+[08-Apr-2024 15:17:15 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:17:15 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:17:15 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 148
+[08-Apr-2024 15:17:15 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:17:15 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:18:29 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 124
+[08-Apr-2024 15:18:29 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:18:29 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:18:29 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 132
+[08-Apr-2024 15:18:29 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:18:29 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:18:29 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 148
+[08-Apr-2024 15:18:29 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:18:29 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:19:16 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 124
+[08-Apr-2024 15:19:16 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:19:16 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:19:16 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 132
+[08-Apr-2024 15:19:16 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:19:16 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:19:16 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 148
+[08-Apr-2024 15:19:16 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:19:16 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:20:45 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 121
+[08-Apr-2024 15:20:45 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:20:45 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:20:45 America/New_York] PHP Warning:  Undefined variable $emailErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 129
+[08-Apr-2024 15:20:45 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:20:45 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:20:45 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 145
+[08-Apr-2024 15:20:45 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:20:45 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:25:49 America/New_York] PHP Warning:  Undefined variable $account_idErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 122
+[08-Apr-2024 15:25:49 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:25:49 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:25:49 America/New_York] PHP Warning:  Undefined variable $phone_numberErr in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php on line 146
+[08-Apr-2024 15:25:49 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:25:49 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/createStaff.php:0
+[08-Apr-2024 15:29:17 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 14
+[08-Apr-2024 15:29:17 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:29:17 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 16
+[08-Apr-2024 15:29:55 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 16
+[08-Apr-2024 15:29:55 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:29:55 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 18
+[08-Apr-2024 15:30:57 America/New_York] PHP Warning:  Undefined variable $stmt_account in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:30:57 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:30:57 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:31:46 America/New_York] PHP Warning:  Undefined variable $account in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:31:46 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:31:46 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:31:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:33:42 America/New_York] PHP Warning:  Undefined variable $account in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:33:42 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:33:42 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:34:01 America/New_York] PHP Warning:  Undefined variable $stmt_staff in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 60
+[08-Apr-2024 15:34:01 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:34:01 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:34:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 60
+[08-Apr-2024 15:35:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 62
+[08-Apr-2024 15:36:37 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 14
+[08-Apr-2024 15:36:37 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:36:37 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:36:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 16
+[08-Apr-2024 15:36:52 America/New_York] PHP Warning:  Undefined variable $link in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 16
+[08-Apr-2024 15:36:52 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:36:52 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function begin_transaction() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 18
+[08-Apr-2024 15:37:23 America/New_York] PHP Warning:  Undefined variable $stmt_account in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
+[08-Apr-2024 15:37:23 America/New_York] PHP Stack trace:
+[08-Apr-2024 15:37:23 America/New_York] PHP   1. {main}() /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:0
+[08-Apr-2024 15:37:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/darzdfux/elle.iamdarzee.com/adminSide/staffCrud/succ_create_staff.php on line 59
